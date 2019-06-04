@@ -16,3 +16,9 @@ function withVisibility(Component) {
 }
 
 export default withVisibility;
+
+// index.js
+// function App({ visibility }) {
+//   return <h1>{visibility}</h1>;
+// }
+// const VisibilityApp = withVisibility(App);

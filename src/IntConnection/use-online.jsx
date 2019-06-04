@@ -11,3 +11,9 @@ function useOnOnline(initialValue = "") {
 }
 
 export default useOnOnline;
+
+// index.js
+// function App() {
+//   const { internet } = useOnOnline();
+//   return <h1>{internet}</h1>;
+// }

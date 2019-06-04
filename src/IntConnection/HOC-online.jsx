@@ -14,3 +14,11 @@ function withOnOnline(Component) {
 }
 
 export default withOnOnline;
+
+//index.js
+
+// function App({ internet }) {
+//   return <h1>{internet}</h1>;
+// }
+
+// const OnOnlineApp = withOnOnline(App);

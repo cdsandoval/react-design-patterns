@@ -11,3 +11,14 @@ function OnOnline({ children }) {
 }
 
 export default OnOnline;
+
+//On Online
+// function App() {
+//   return (
+//       <OnOnline>
+//         {({ internet }) => {
+//           return <h1>{internet}</h1>;
+//         }}
+//       </OnOnline>
+//   );
+// }

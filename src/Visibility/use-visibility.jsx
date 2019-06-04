@@ -12,3 +12,9 @@ function useVisibility(initialValue = "true") {
 }
 
 export default useVisibility;
+
+// index.js
+// function App() {
+//   const { visibility } = useVisibility();
+//   return <h1>{visibility}</h1>;
+// }

@@ -13,3 +13,14 @@ function Visibility({ children }) {
 }
 
 export default Visibility;
+
+// index.js
+// function App() {
+//   return (
+//     <Visibility>
+//       {({ visibility }) => {
+//          return <h1>{visibility}</h1>;
+//       }}
+//     </Visibility>//
+//   );
+// }
